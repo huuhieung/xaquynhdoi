@@ -3,7 +3,7 @@
     - name: Danh sách cán bộ xã
       link: /canboxa
     - name: Đảng ủy
-      link: /danguy
+      link: /danguy.html
     - name: Hội đồng nhân dân
       link: 
     - name: Ủy ban nhân dân
@@ -13,9 +13,9 @@
 - name: Cộng đồng
   sub:
     - name: Thông báo của xã
-      link: /thongbao
+      link: /thongbao.html
     - name: Tin tức mới
-      link: /tintuc 
+      link: /tintuc.html  
     - name: Lịch sử xã Quỳnh Đôi
       link: 
     - name: Người Quỳnh Đôi thành đạt
@@ -24,13 +24,13 @@
 - name: Thông tin khác
   sub:
     - name: Sổ Danh bạ
-      link: /danhba
+      link: /danhba.html
     - name: Tài liệu hướng dẫn
-      link: /tailieu
+      link: /tailieu.html
     - name: Địa danh nổi tiếng ở xã
       link: 
     - name: Ảnh đẹp Quỳnh Đôi
-      link: /anh
+      link: /anh.html
 
 - name: Liên hệ chúng tôi
   sub:

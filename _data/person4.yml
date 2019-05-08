@@ -1,0 +1,23 @@
+- name: Hồ Ngọc Sỹ 
+  role: công chức văn phòng - thống kê
+  img: /assets/images/male.png
+  phone: 0989459857
+  mail: ngocsy59@gmail.com
+
+- name: Phan Thị Hiền
+  role:  công chức văn phòng đảng uỷ, chính quyền
+  img: /assets/images/female.png
+  phone: 0967138238
+  mail: phanhienuybanquynhdoi@gmail.com
+
+- name: Hồ Thị Mỹ
+  role: chuyên trách dân số xã
+  img: /assets/images/female.png
+  phone: 0372873616
+  mail: myquynhdoi@gmail.com
+
+- name: Phan Đình Hải 
+  role: đảng uỷ viên, giám đốc hợp tác xã dịch vụ nông nhiệp
+  img: /assets/images/male.png
+  phone:
+  mail:

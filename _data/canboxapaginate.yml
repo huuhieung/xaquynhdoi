@@ -1,0 +1,12 @@
+- page: 1
+  link: /canboxa
+  aaa: 6/22
+- page: 2
+  link: /canboxa-page2
+  aaa: 12/22
+- page: 3
+  link: /canboxa-page3
+  aaa: 18/22
+- page: 4
+  link: /canboxa-page4
+  aaa: 22/22

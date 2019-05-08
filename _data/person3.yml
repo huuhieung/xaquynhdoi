@@ -1,0 +1,36 @@
+- name: Hồ Quang Thanh
+  role: công chức tư pháp hộ tịch
+  img: /assets/images/male.png
+  phone: 0989756685
+  mail: hothanhquynhdoi@gmail.com
+
+- name: Hồ Thị Thanh Mơ
+  role: công chức văn hoá chính sách
+  img: /assets/images/female.png
+  phone: 0961537368
+  mail: thanhmo2212@gmail.com
+
+- name: Lê Thị Hồng Thiêm
+  role: Công chức địa chính xây dựng
+  img: /assets/images/female.png
+  phone: 0966259368
+  mail: hongthiem82@gmail.com
+
+- name: Lê Thị Thuỷ
+  role: Công chức địa nông nghiệp
+  img: /assets/images/female.png
+  phone: 0338687300
+  mail: lethithuydcqd@gmail.com
+
+- name: Nguyễn Thị Thơm
+  role:  công chức kế toán
+  img: /assets/images/female.png
+  phone: 0389220884
+  mail: nguyenthom0581@gmail.com
+
+- name:  Nguyễn Thị Hoa 
+  role: công chức kế toán thuế
+  img: /assets/images/female.png
+  phone: 0343308996
+  mail: nguyenhoa311@gmail.com
+
