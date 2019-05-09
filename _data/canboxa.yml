@@ -1,10 +1,14 @@
+name: canboxa
 paginate: 6
+
+
 person: 
 - name: Phan Đình Hiền
   role: Bí Thư Đảng Uỷ, Chủ Tịch Hội Đồng Nhân Dân Xã
   img: /assets/images/male.png
   phone: 0919338767
   mail: phanhien60@gmail.com
+
 - name: Hồ Quang Tuấn 
   role: Phó Bí Thư Đảng Uỷ, Chủ Tịch UBND Xã
   img: /assets/images/male.png
